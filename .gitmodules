@@ -1,0 +1,12 @@
+[submodule "vm"]
+	path = vm
+	url = git://github.com/cyborgos/cyborg-vm.git
+[submodule "bootcompiler"]
+	path = bootcompiler
+	url = git://github.com/cyborgos/cyborg-bootcompiler.git
+[submodule "lib/main"]
+	path = lib/main
+	url = git://github.com/cyborgos/cyborg-library.git
+[submodule "lib/compiler"]
+	path = lib/compiler
+	url = git://github.com/cyborgos/cyborg-compiler.git
