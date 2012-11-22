@@ -1,0 +1,12 @@
+[submodule "deps/runtime"]
+	path = deps/runtime
+	url = git://github.com/cyborgos/cyborg-runtime.git
+[submodule "deps/library"]
+	path = deps/library
+	url = git://github.com/cyborgos/cyborg-library.git
+[submodule "deps/compiler"]
+	path = deps/compiler
+	url = git://github.com/cyborgos/cyborg-compiler.git
+[submodule "deps/bootstrap"]
+	path = deps/bootstrap
+	url = git://github.com/cyborgos/cyborg-bootstrap.git
